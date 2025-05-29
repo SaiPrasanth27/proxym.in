@@ -1,7 +1,19 @@
-
 .cont {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 30px;
+  background-image: url('../../assets/Gemini_Generated_Image_kwt15kkwt15kkwt1.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  padding: 50px;
+}
+
+.features-box, .plans-section {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+  border-radius: 20px;
 }
 
 .section-title {
